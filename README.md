@@ -32,6 +32,4 @@ Here are a few projects and topics I've been working on:
 
 
 ### 📫 Let’s connect
-Feel free to explore the repos or reach out via [LinkedIn](https://www.linkedin.com/in/h%C3%B2a-l%C3%AA-9a2795167/).
-
-Thanks for stopping by!
+Feel free to explore the repos or reach me out via [LinkedIn](https://www.linkedin.com/in/h%C3%B2a-l%C3%AA-9a2795167/).
