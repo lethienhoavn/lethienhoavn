@@ -9,7 +9,7 @@ I'm a data science practitioner who enjoys building reliable systems, enabling r
 
 Here are a few projects and topics I've been working on:
 
-- 🎓 **Data Science Course**
+- 🎓 **Data Science Course**  
   [`Data-Science-Courses`](https://github.com/lethienhoavn/Data-Science-Courses)
   Roadmap and materials for learning practical Data Science, including structured curricula and reusable teaching resources.
 
